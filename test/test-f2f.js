@@ -87,7 +87,7 @@ describe('Query', function(){
   })
 })
 
-describe.only('Precreate', function(){
+describe('Precreate', function(){
   
   const option = {
     out_trade_no: '1486372683556',
